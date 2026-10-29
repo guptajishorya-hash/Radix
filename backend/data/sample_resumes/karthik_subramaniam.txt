@@ -1,0 +1,21 @@
+Candidate Name: Karthik Subramaniam
+Email: karthik.subramaniam@example.com
+Target Roles: Data Scientist, Data Analyst
+Profile Archetype: Data-leaning analyst (Strong fit for Data Scientist / Data Analyst roles, weaker for pure SWE)
+
+Professional Summary:
+Data Scientist and Analytics Specialist with expertise in predictive modeling, exploratory data analysis, and advanced SQL querying. Proven ability to turn massive datasets into strategic insights and deploy machine learning models.
+
+Technical Competencies & Levels:
+- SQL (SQL): Level 9 — Master of complex queries, window functions, CTEs, query plan optimization, and data warehousing.
+- AI & Machine Learning (AI): Level 8 — Proficient in PyTorch, scikit-learn, regression, classification, and NLP pipelines.
+- Aptitude (APTI): Level 8 — Exceptional quantitative reasoning, statistical hypothesis testing, and metrics design.
+- Communication (COMM): Level 8 — Experienced in executive data storytelling, presentation of insights, and stakeholder syncs.
+- Coding (COD): Level 7 — Strong in Python for data science (pandas, numpy, scikit-learn, matplotlib).
+- Cloud (CLOUD): Level 6 — Experience querying BigQuery and managing cloud datasets in GCP.
+- Software Engineering (SWE): Level 6 — Basic version control, modular scripting, and reproducible notebooks.
+- Data Structures & Algorithms (DSA): Level 6 — Knowledge of core search/sorting and algorithmic optimization.
+- Object-Oriented Design (OOD): Level 5 — Functional and modular coding style; moderate OOP depth.
+- Operating Systems (OS): Level 5 — Working knowledge of Linux command line and bash scripts for data loading.
+- System Design (SYSD): Level 4 — Focused on data architectures rather than high-throughput distributed microservices.
+- Networking (NETW): Level 4 — Basic understanding of HTTP endpoints and API data consumption.

@@ -1,0 +1,21 @@
+Job Title: Software Engineer
+Company: Microsoft Corporation
+Location: Hyderabad, India
+
+About the Role:
+Microsoft is looking for innovative Software Engineers to join our Azure Cloud and Productivity platform engineering teams. In this role, you will build resilient cloud infrastructure and developer-facing services powering millions of global enterprises.
+
+Key Responsibilities:
+- Architect, build, and deploy high-availability enterprise services using modern Cloud platforms.
+- Champion rigorous Software Engineering (SWE) practices: CI/CD automation, testing, and agile sprints.
+- Implement object-oriented design patterns (OOD), clean interfaces, and scalable REST/gRPC APIs.
+- Optimize database transactions and schemas utilizing SQL and distributed storage systems.
+- Collaborate with global engineering leads to maintain system reliability, security, and uptime.
+
+What We're Looking For (Required Qualifications):
+- Demonstrated coding ability in C#, Java, Python, or TypeScript.
+- Strong knowledge of Cloud architecture (Azure/AWS), containerization, and microservices.
+- Excellent Object-Oriented Design (OOD) and modular software engineering principles.
+- Proficiency in Data Structures and Algorithms (DSA) and System Design (SYSD).
+- Solid grasp of Operating Systems (OS) fundamentals and Networking protocols.
+- Effective communication and cross-team collaboration capabilities.

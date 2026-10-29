@@ -1,0 +1,21 @@
+Job Title: Data Scientist
+Company: Google LLC
+Location: Bengaluru, India
+
+About the Role:
+At Google, data scientists work on critical business challenges, consumer behavior modelling, and state-of-the-art machine learning algorithms. You will leverage data pipelines to generate insights and train predictive models that directly impact core Google products.
+
+Key Responsibilities:
+- Build, train, and deploy advanced Artificial Intelligence (AI) and Machine Learning models using PyTorch and TensorFlow.
+- Design SQL and data warehouse queries to clean, extract, and analyze petabyte-scale datasets.
+- Apply statistical analysis, probabilistic modeling, and predictive analytics.
+- Collaborate with software engineering teams to integrate machine learning endpoints into live applications.
+- Document and communicate findings through data visualization and stakeholder presentations.
+
+What We're Looking For (Required Qualifications):
+- Advanced proficiency in Python for Data Science and Machine Learning (AI).
+- Strong proficiency in SQL database extraction, querying, and relational data modeling.
+- Solid understanding of Data Structures & Algorithms (DSA) and Coding best practices.
+- Experience with Cloud computing platforms (GCP / AWS) for distributed training and model inference.
+- Strong aptitude, quantitative problem solving, and written and oral communication skills.
+- Understanding of foundational Software Engineering principles (SWE) for productionizing scripts.

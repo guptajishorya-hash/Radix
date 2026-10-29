@@ -1,0 +1,109 @@
+/* ── RADIX Talent Match – Talencia Global Exact Theme ── */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  /* Exact Talencia Global Color Palette */
+  --primary:         #df7a1a;    /* Warm Talencia Orange */
+  --primary-hover:   #c86910;
+  --primary-light:   #fff7ed;    /* Orange-50 */
+  --primary-border:  #fed7aa;    /* Orange-200 */
+  --primary-gradient: linear-gradient(135deg, #f5a623 0%, #df7a1a 100%);
+
+  /* Creamy accents from screenshot buttons & pills */
+  --pill-cream:      #fce3a9;
+  --pill-cream-hover: #f9d88e;
+  --pill-cream-text: #854d0e;
+
+  /* Pod yellow / gold shape from Hero */
+  --pod-gold:        #f6c445;
+  --pod-dark:        #252f3f;
+
+  /* Surfaces & Backgrounds */
+  --bg:              #ffffff;
+  --bg-subtle:       #fcfbf9;
+  --surface:         #ffffff;
+  --surface-alt:     #f8fafc;
+  --border:          #e5e7eb;
+  --border-light:    #f1f5f9;
+
+  /* Typography Colors */
+  --text-heading:    #1e2530;    /* Dark Charcoal from Talencia */
+  --text-body:       #475569;
+  --text-muted:      #94a3b8;
+
+  /* Semantic Feedback */
+  --success:         #059669;
+  --success-bg:      #ecfdf5;
+  --warn:            #d97706;
+  --warn-bg:         #fffbeb;
+  --error:           #dc2626;
+  --error-bg:        #fef2f2;
+
+  /* Geometry & Shadows */
+  --radius:          16px;
+  --radius-sm:       10px;
+  --radius-xs:       6px;
+  --shadow-sm:       0 1px 3px rgba(0,0,0,0.04), 0 1px 2px rgba(0,0,0,0.06);
+  --shadow:          0 4px 16px -2px rgba(0,0,0,0.06), 0 2px 6px -2px rgba(0,0,0,0.04);
+  --shadow-lg:       0 14px 30px -4px rgba(223,122,26,0.12), 0 8px 16px -4px rgba(0,0,0,0.05);
+
+  /* Fonts */
+  --font-body:       'Inter', system-ui, -apple-system, sans-serif;
+  --font-heading:    'Space Grotesk', 'Inter', system-ui, sans-serif;
+}
+
+body {
+  font-family: var(--font-body);
+  background: var(--bg);
+  color: var(--text-body);
+  min-height: 100vh;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 7px; }
+::-webkit-scrollbar-track { background: #f8fafc; }
+::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: #df7a1a; }
+
+/* Smooth scrolling */
+html { scroll-behavior: smooth; }
+
+/* Material Symbols */
+.material-symbols-rounded {
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+  vertical-align: middle;
+}
+
+/* Selection */
+::selection {
+  background: var(--primary);
+  color: #ffffff;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulseGlow {
+  0%, 100% { transform: scale(1); opacity: 0.9; }
+  50%      { transform: scale(1.02); opacity: 1; }
+}
+
+@keyframes floatGentle {
+  0%, 100% { transform: translateY(0); }
+  50%      { transform: translateY(-8px); }
+}

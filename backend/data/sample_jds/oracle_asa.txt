@@ -1,0 +1,20 @@
+Job Title: Application Support Analyst
+Company: Oracle Financial Services Software
+Location: Bengaluru / Chennai, India
+
+About the Role:
+Oracle Financial Services Software is seeking an Application Support Analyst to maintain, troubleshoot, and support mission-critical enterprise banking platforms. You will manage incident response, service availability, and application performance for Tier-1 banks globally.
+
+Key Responsibilities:
+- Investigate and resolve production incidents using SQL diagnostic queries and log file inspection.
+- Operate across Linux and Unix Operating Systems (OS), utilizing bash scripts, cron jobs, and process monitoring.
+- Diagnose network connectivity (NETW), API handshakes, firewall configurations, and web server latency.
+- Communicate incident progress, technical root-cause analyses, and resolution roadmaps clearly to clients.
+- Collaborate with core Software Engineering (SWE) teams on bug tracking, patch testing, and deployment.
+
+What We're Looking For (Required Qualifications):
+- Proficiency in SQL for querying databases, debugging table locks, and validating transaction consistency.
+- Hands-on experience with Operating Systems (OS) including Linux/Unix command line and shell scripting.
+- Understanding of Networking protocols (TCP/IP, HTTP, DNS, SSL) and client-server architecture.
+- Exceptional analytical aptitude, diagnostic mindset, and troubleshooting calm under pressure.
+- Outstanding verbal and written communication skills for client-facing and technical interactions.

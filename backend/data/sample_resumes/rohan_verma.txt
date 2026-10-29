@@ -1,0 +1,21 @@
+Candidate Name: Rohan Verma
+Email: rohan.verma@example.com
+Target Roles: Software Engineer, Full-Stack Engineer, Machine Learning Engineer
+Profile Archetype: Strong all-rounder (Competitive fit across nearly every role in the pack)
+
+Professional Summary:
+Versatile and high-aptitude Software Engineer with a proven track record across full-stack development, cloud microservices, and applied AI. Competitive programmer and hackathon finalist with well-rounded competencies in engineering excellence and algorithmic depth.
+
+Technical Competencies & Levels:
+- Coding (COD): Level 9 — Advanced mastery of Python, Java, and TypeScript. Clean, performant, and well-tested code.
+- Data Structures & Algorithms (DSA): Level 9 — Active competitive programmer; expert in dynamic programming, graph algorithms, and complexity.
+- Software Engineering (SWE): Level 9 — Seasoned in CI/CD pipelines, automated testing, agile methodology, and strict code review standards.
+- System Design (SYSD): Level 8 — Designed high-throughput microservices, caching with Redis, and message queues with Kafka.
+- Cloud (CLOUD): Level 8 — Hands-on production experience deploying scalable containers on AWS, Docker, and Kubernetes.
+- Object-Oriented Design (OOD): Level 8 — Applied design patterns (factory, observer, singleton) and clean domain-driven architecture.
+- SQL (SQL): Level 8 — Advanced PostgreSQL schema design, indexing strategies, transactions, and performance tuning.
+- Aptitude (APTI): Level 8 — Top-percentile problem solving speed, analytical rigor, and logical reasoning under time constraints.
+- Communication (COMM): Level 8 — Articulate presenter, excellent technical documentation author, and active team collaborator.
+- Operating Systems (OS): Level 8 — Strong grasp of Linux internals, multithreading, concurrency control, and process memory.
+- Networking (NETW): Level 7 — Proficient in RESTful API design, WebSockets, gRPC, reverse proxies, and TLS encryption.
+- AI & Machine Learning (AI): Level 7 — Experienced in deploying transformer models, fine-tuning LLMs, and scikit-learn models.

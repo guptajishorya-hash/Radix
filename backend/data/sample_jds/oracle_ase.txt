@@ -1,0 +1,20 @@
+Job Title: Associate Software Engineer
+Company: Oracle Financial Services Software
+Location: Bengaluru / Mumbai, India
+
+About the Role:
+Oracle Financial Services Software (OFSS) is a world leader in banking software solutions. We are hiring Associate Software Engineers to build and modernize core banking engines, transaction processing pipelines, and enterprise risk management systems.
+
+Key Responsibilities:
+- Develop robust backend banking logic and transactional database workflows in Java and SQL.
+- Implement object-oriented design (OOD) standards ensuring modularity and compliance.
+- Write complex database stored procedures, triggers, and query tuning in Oracle SQL and PL/SQL.
+- Participate in the complete Software Engineering (SWE) lifecycle, from requirement analysis to automated testing.
+- Assist in distributed System Design and cloud container deployment for global financial institutions.
+
+What We're Looking For (Required Qualifications):
+- Solid foundation in Object-Oriented Programming (OOD) and Coding in Java, C++, or Python.
+- Exceptional SQL knowledge: schema normalization, relational tables, ACID transactions, and query tuning.
+- Understanding of core Data Structures & Algorithms (DSA) and Operating Systems (OS) concepts.
+- Analytical aptitude for financial logic, banking domain calculations, and mathematical rigor.
+- Professional written and verbal communication skills in collaborative development environments.

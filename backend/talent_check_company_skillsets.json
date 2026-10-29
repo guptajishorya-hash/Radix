@@ -1,0 +1,44 @@
+{
+  "Google LLC": [
+    { "category_code": "DSA", "required_level": 9, "category_label": "Data Structures & Algorithms" },
+    { "category_code": "COD", "required_level": 9, "category_label": "Coding" },
+    { "category_code": "SYSD", "required_level": 9, "category_label": "System Design" },
+    { "category_code": "AI", "required_level": 8, "category_label": "AI & Machine Learning" },
+    { "category_code": "CLOUD", "required_level": 8, "category_label": "Cloud & Infrastructure" },
+    { "category_code": "SWE", "required_level": 8, "category_label": "Software Engineering" },
+    { "category_code": "OOD", "required_level": 8, "category_label": "Object-Oriented Design" },
+    { "category_code": "OS", "required_level": 8, "category_label": "Operating Systems" },
+    { "category_code": "NETW", "required_level": 7, "category_label": "Networking" },
+    { "category_code": "SQL", "required_level": 7, "category_label": "SQL & Databases" },
+    { "category_code": "APTI", "required_level": 8, "category_label": "Aptitude & Problem Solving" },
+    { "category_code": "COMM", "required_level": 8, "category_label": "Communication" }
+  ],
+  "Microsoft Corporation": [
+    { "category_code": "COD", "required_level": 8, "category_label": "Coding" },
+    { "category_code": "DSA", "required_level": 8, "category_label": "Data Structures & Algorithms" },
+    { "category_code": "SWE", "required_level": 9, "category_label": "Software Engineering" },
+    { "category_code": "CLOUD", "required_level": 9, "category_label": "Cloud & Infrastructure" },
+    { "category_code": "OOD", "required_level": 8, "category_label": "Object-Oriented Design" },
+    { "category_code": "SYSD", "required_level": 8, "category_label": "System Design" },
+    { "category_code": "SQL", "required_level": 8, "category_label": "SQL & Databases" },
+    { "category_code": "AI", "required_level": 8, "category_label": "AI & Machine Learning" },
+    { "category_code": "OS", "required_level": 8, "category_label": "Operating Systems" },
+    { "category_code": "COMM", "required_level": 8, "category_label": "Communication" },
+    { "category_code": "APTI", "required_level": 8, "category_label": "Aptitude & Problem Solving" },
+    { "category_code": "NETW", "required_level": 7, "category_label": "Networking" }
+  ],
+  "Oracle Financial Services Software": [
+    { "category_code": "SQL", "required_level": 9, "category_label": "SQL & Databases" },
+    { "category_code": "COD", "required_level": 8, "category_label": "Coding" },
+    { "category_code": "SWE", "required_level": 8, "category_label": "Software Engineering" },
+    { "category_code": "OOD", "required_level": 8, "category_label": "Object-Oriented Design" },
+    { "category_code": "DSA", "required_level": 7, "category_label": "Data Structures & Algorithms" },
+    { "category_code": "SYSD", "required_level": 7, "category_label": "System Design" },
+    { "category_code": "CLOUD", "required_level": 7, "category_label": "Cloud & Infrastructure" },
+    { "category_code": "OS", "required_level": 7, "category_label": "Operating Systems" },
+    { "category_code": "APTI", "required_level": 8, "category_label": "Aptitude & Problem Solving" },
+    { "category_code": "COMM", "required_level": 8, "category_label": "Communication" },
+    { "category_code": "NETW", "required_level": 7, "category_label": "Networking" },
+    { "category_code": "AI", "required_level": 6, "category_label": "AI & Machine Learning" }
+  ]
+}

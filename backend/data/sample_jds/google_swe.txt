@@ -1,0 +1,22 @@
+Job Title: Software Engineer (SWE)
+Company: Google LLC
+Location: Bengaluru, India (Hybrid)
+
+About the Role:
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information. We are looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, and mobile.
+
+Key Responsibilities:
+- Design, develop, test, deploy, maintain, and enhance large-scale distributed software applications.
+- Implement complex data structures and efficient algorithms to solve performance bottlenecks.
+- Apply robust object-oriented design and design patterns across multi-tier microservices.
+- Manage individual project priorities, deadlines, and deliverables.
+- Optimize system design, concurrency, memory management, and operating systems performance on Linux.
+
+What We're Looking For (Required Qualifications):
+- Proficiency in one or more general-purpose programming languages including Python, C++, Java, or Go (Coding).
+- Deep expertise in Data Structures & Algorithms (DSA), time/space complexity analysis.
+- Experience with distributed System Design (SYSD), microservices architecture, and high availability.
+- Understanding of Operating Systems (OS) concepts (threads, processes, IPC, memory management).
+- Strong foundation in Cloud computing, Networking (TCP/IP, HTTP, RPC), and SQL databases.
+- Solid Software Engineering (SWE) practices: code reviews, unit testing, CI/CD, and version control.
+- High aptitude, strong analytical problem solving, and effective cross-functional communication.

@@ -1,0 +1,21 @@
+Candidate Name: Ananya Rao
+Email: ananya.rao@example.com
+Target Roles: Software Engineer, Systems Engineer
+Profile Archetype: Systems-leaning generalist (Strong fit for SWE-heavy roles, weaker for data roles)
+
+Professional Summary:
+Software Engineer with strong background in distributed systems, low-latency services, and cloud computing. Passionate about operating systems internals, algorithmic efficiency, and scalable backend infrastructure.
+
+Technical Competencies & Levels:
+- Coding (COD): Level 9 — Expert in C++, Python, and Go. Extensive experience building backend microservices.
+- Data Structures & Algorithms (DSA): Level 8 — Strong grasp of trees, graphs, dynamic programming, and complexity.
+- System Design (SYSD): Level 8 — Designed high-throughput distributed message queues and caching layers.
+- Operating Systems (OS): Level 8 — Deep knowledge of Linux kernel, memory management, IPC, and concurrency.
+- Cloud & DevOps (CLOUD): Level 7 — Experience with Docker, Kubernetes, and AWS deployments.
+- Software Engineering (SWE): Level 8 — Proficient in Git, CI/CD pipelines, unit testing, and code reviews.
+- Object-Oriented Design (OOD): Level 8 — Applied SOLID principles and design patterns in production services.
+- Networking (NETW): Level 7 — Familiar with TCP/IP, sockets, load balancing, and REST/gRPC.
+- Aptitude (APTI): Level 8 — Strong analytical problem solving and debugging methodology.
+- Communication (COMM): Level 7 — Clear technical documentation and sprint participation.
+- SQL (SQL): Level 5 — Basic relational queries and PostgreSQL schema updates.
+- AI & Data (AI): Level 4 — Familiar with basic machine learning models; weaker focus on data science.

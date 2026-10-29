@@ -1,0 +1,21 @@
+Candidate Name: Priya Menon
+Email: priya.menon@example.com
+Target Roles: Associate Software Engineer, Application Support Analyst
+Profile Archetype: Entry-level, support-oriented (Best fit for Oracle FSS roles, weaker fit for Google / Microsoft)
+
+Professional Summary:
+Recent Computer Science graduate with hands-on internship experience in banking application support, database maintenance, and client operations. Dedicated problem solver with strong customer focus and diagnostic troubleshooting skills.
+
+Technical Competencies & Levels:
+- Communication (COMM): Level 8 — Excellent written and oral English communication, client handling, and ticket tracking.
+- SQL (SQL): Level 7 — Competent in writing queries, joins, relational updates, and transaction logging in Oracle SQL.
+- Aptitude (APTI): Level 7 — Methodical root-cause investigation, structured incident management, and critical thinking.
+- Operating Systems (OS): Level 6 — Hands-on Linux/Unix terminal usage, basic shell scripting, permissions, and log analysis.
+- Software Engineering (SWE): Level 6 — Familiar with Jira ticketing, Git, standard software life cycles, and patch testing.
+- Coding (COD): Level 6 — Solid academic foundation in Java and Python for script automation and backend utilities.
+- Object-Oriented Design (OOD): Level 6 — Good grasp of Java classes, interfaces, and clean code principles.
+- Networking (NETW): Level 6 — Understanding of DNS, HTTP status codes, port diagnostics, and network pings.
+- Cloud (CLOUD): Level 5 — Foundational cloud concepts, basic virtual machines, and cloud storage basics.
+- Data Structures & Algorithms (DSA): Level 4 — Academic grasp of linked lists, stacks, queues; less practice on advanced competitive graphs.
+- System Design (SYSD): Level 3 — Elementary understanding of client-server architecture; limited large-scale distributed design experience.
+- AI & Machine Learning (AI): Level 2 — Conceptual understanding of modern AI; no practical production ML background.

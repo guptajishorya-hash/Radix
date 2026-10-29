@@ -1,0 +1,21 @@
+Job Title: Data Analyst
+Company: Microsoft Corporation
+Location: Hyderabad, India
+
+About the Role:
+As a Data Analyst at Microsoft, you will translate complex telemetry and business metrics into actionable strategic decisions. You will work across teams to build enterprise Power BI dashboards, automated SQL reports, and predictive trend forecasts.
+
+Key Responsibilities:
+- Write optimized SQL queries to aggregate, clean, and analyze multi-source relational and cloud datasets.
+- Develop interactive dashboards, metrics reporting, and automated telemetry pipelines.
+- Apply quantitative aptitude, exploratory data analysis, and statistical tests to uncover trends.
+- Deliver clear technical and business communication to executive stakeholders.
+- Utilize Python or R for statistical scripting, automation, and anomaly detection.
+
+What We're Looking For (Required Qualifications):
+- Deep expertise in SQL querying, join optimization, window functions, and database design.
+- Proven experience with business intelligence tools (Power BI, Tableau) and data modeling.
+- Solid coding skills in Python for data analysis, pandas, and data manipulation.
+- High aptitude, logical reasoning, and structured problem-solving skills.
+- Excellent communication and presentation abilities for executive audiences.
+- Foundational awareness of Cloud environments (Azure Data Lake, SQL Server).
