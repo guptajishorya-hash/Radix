@@ -1,29 +1,52 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "frontend/package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "dist"
-      }
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "services": {
+    "frontend": {
+      "root": "frontend/",
+      "framework": "vite"
     },
-    {
-      "src": "api/index.py",
-      "use": "@vercel/python"
+    "backend": {
+      "root": "backend/",
+      "framework": "fastapi",
+      "entrypoint": "main:app"
     }
-  ],
-  "routes": [
+  },
+  "rewrites": [
     {
-      "src": "/(api|jd|resume|talent-check|match|mock-interview|health|companies)(.*)",
-      "dest": "api/index.py"
+      "source": "/api/:path*",
+      "destination": { "service": "backend" }
     },
     {
-      "handle": "filesystem"
+      "source": "/jd/:path*",
+      "destination": { "service": "backend" }
     },
     {
-      "src": "/(.*)",
-      "dest": "frontend/index.html"
+      "source": "/resume/:path*",
+      "destination": { "service": "backend" }
+    },
+    {
+      "source": "/talent-check/:path*",
+      "destination": { "service": "backend" }
+    },
+    {
+      "source": "/match/:path*",
+      "destination": { "service": "backend" }
+    },
+    {
+      "source": "/mock-interview/:path*",
+      "destination": { "service": "backend" }
+    },
+    {
+      "source": "/health",
+      "destination": { "service": "backend" }
+    },
+    {
+      "source": "/companies",
+      "destination": { "service": "backend" }
+    },
+    {
+      "source": "/(.*)",
+      "destination": { "service": "frontend" }
     }
   ]
 }
